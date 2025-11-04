@@ -19,15 +19,9 @@
 - Back-end: **REST API, ASP.NET (cursando .NET 8 / .NET 9)**  
 - Banco de dados: **SQL Server, MySQL, MongoDB**  
 - Redes e manutenção de computadores  
-- Conceitos em **CyberSegurança**  
+- Conceitos em **CyberSegurança**
 
 ---
-
-## 📌 Projetos em destaque  
-🔹 [Validador de CPF](https://github.com/SamiLM4/Leitor_Image_KOTLIN) – Validação de documentos em Python  
-🔹 CRUD com **SQL** e **MongoDB**  
-🔹 Jogos 2D no **Unity**    
-🔹 Projetos acadêmicos de **robótica e programação competitiva**  
 
 ## 🤖🧠 TCC 2025 - Análise de Imagens Médicas de Esclerose Múltipla com IA Generativa  
 🔹 Integração com **OpenAI API**  
