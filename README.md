@@ -1,32 +1,32 @@
-# Murilo Gonçalves de Lima
+# 👋 Murilo Gonçalves de Lima
 
-Software Developer focused on **Back-end, APIs and Artificial Intelligence**.
+Desenvolvedor com foco em **Back-end, APIs e Inteligência Artificial**.
 
-Computer Science student passionate about building systems, solving complex problems and exploring new technologies.
-
----
-
-## About Me
-
-I am currently in the **first semester of Computer Science** and have a technical background in **Information Technology**.
-
-My main interests are:
-
-- Back-end development
-- Artificial Intelligence
-- Software architecture
-- API development
-- Systems engineering
-
-I enjoy **building real projects**, experimenting with new technologies and understanding how systems work internally.
-
-Currently seeking **internship or junior developer opportunities** where I can contribute and continue learning.
+Estudante de **Ciência da Computação**, apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas complexos através de software.
 
 ---
 
-## Tech Stack
+## 📚 Sobre mim
 
-### Languages
+Atualmente estou cursando **Ciência da Computação** e possuo formação técnica em **Informática**.
+
+Tenho grande interesse em áreas como:
+
+- Desenvolvimento **Back-end**
+- **Inteligência Artificial**
+- **Arquitetura de sistemas**
+- Desenvolvimento de **APIs**
+- Engenharia de Software
+
+Gosto de trabalhar em **projetos reais**, estudar novas tecnologias e entender como os sistemas funcionam internamente.
+
+Atualmente busco **oportunidades de estágio ou desenvolvimento júnior**, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente.
+
+---
+
+## 🛠️ Tecnologias
+
+### Linguagens
 Python  
 PHP  
 JavaScript  
@@ -38,47 +38,47 @@ C++
 REST APIs  
 Node.js  
 ASP.NET  
-MVC Architecture  
+Arquitetura MVC  
 
 ### Front-end
 React  
 HTML  
 CSS  
 
-### Databases
+### Banco de dados
 MySQL  
 SQL Server  
 MongoDB  
 
-### Other Areas
-Artificial Intelligence  
-Computer Networks  
-Distributed Systems  
+### Outros conhecimentos
+Inteligência Artificial  
+Redes de Computadores  
+Sistemas Distribuídos  
 
 ---
 
-## Featured Projects
+## 🚀 Projetos em destaque
 
 ### U-Net Multiple Sclerosis Segmentation
-Deep Learning project that trains a **U-Net neural network** to detect and segment **Multiple Sclerosis lesions** in MRI images.
+Projeto de **Deep Learning** utilizando a arquitetura **U-Net** para segmentação de lesões de **Esclerose Múltipla** em imagens médicas.
 
-Technologies used:
+Tecnologias utilizadas:
 - Python
 - PyTorch
 - Deep Learning
-- Medical Image Processing
+- Processamento de imagens médicas
 
 ---
 
 ### Blockchain System (TypeScript)
 
-Implementation of a **blockchain system** developed for learning purposes, exploring:
+Implementação de um sistema **Blockchain** desenvolvido para estudo de:
 
-- distributed systems
-- cryptography concepts
-- block validation mechanisms
+- sistemas distribuídos
+- conceitos de criptografia
+- validação de blocos
 
-Technologies:
+Tecnologias:
 - TypeScript
 - Node.js
 
@@ -86,75 +86,61 @@ Technologies:
 
 ### EcoSite – Hackathon Project
 
-Web platform developed during a **school hackathon**.
+Plataforma web desenvolvida durante um **Hackathon escolar**.
 
-Users add supermarket products and receive an **environmental impact score** based on consumption.
+O sistema permite adicionar produtos de supermercado e gera uma **pontuação de impacto ambiental** baseada no consumo.
 
-Features:
-- external API consumption
-- scoring system
-- simple web interface
+Funcionalidades:
+- consumo de API externa
+- sistema de pontuação
+- interface web simples
 
 ---
 
-### TCC 2025 – AI Medical Image Analysis
+### TCC 2025 – Análise de Imagens Médicas com IA
 
-Research project involving:
+Projeto de pesquisa envolvendo:
 
-- analysis of medical images using AI
-- API integration
-- automated report generation
+- análise de imagens médicas utilizando **Inteligência Artificial**
+- integração com **API**
+- geração automatizada de relatórios
 
 ---
 
 ### Refactoring of the Front and System – TCC 2025
 
-Refactoring project focused on improving:
-
-- code organization
-- system architecture
-- maintainability
+Projeto focado na **refatoração e melhoria da arquitetura do sistema**, aplicando boas práticas de desenvolvimento e organização de código.
 
 ---
 
-## Portfolio
+## 🌐 Portfólio
 
-You can see some of my projects and experiments here:
+Alguns dos meus projetos e experimentos podem ser vistos em:
 
 https://portifolio-alpha-orpin.vercel.app/
 
 ---
 
-## GitHub Stats
+## 📌 Atualmente focado em
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
-
----
-
-## Current Focus
-
-Currently improving my skills in:
-
-- Software Engineering
-- Back-end development
-- Artificial Intelligence
-- System architecture
+- Engenharia de Software
+- Desenvolvimento Back-end
+- Inteligência Artificial aplicada
+- Arquitetura de sistemas
 
 ---
 
-## Contact
+## 📬 Contato
 
-Email  
+📧 Email  
 murilogoncalvesdelima08@gmail.com  
 
-LinkedIn  
+💼 LinkedIn  
 www.linkedin.com/in/murilo-gonçalves-de-lima-dev/
 
-Portfolio  
+🌐 Portfólio  
 https://portifolio-alpha-orpin.vercel.app/
 
 ---
 
-“Technology is about solving problems — code is just the tool.”
+✨ *“Tecnologia é sobre resolver problemas — código é apenas a ferramenta.”*
