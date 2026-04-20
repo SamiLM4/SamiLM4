@@ -1,41 +1,160 @@
-# 👋 Olá, eu sou o Murilo Gonçalves de Lima  
+# Murilo Gonçalves de Lima
 
-🎓 Estudante do último ano do Ensino Médio Técnico em Informática (UNIVAP)  
-💻 Apaixonado por tecnologia, programação e **CyberSegurança**  
-🚀 Sempre em busca de aprendizado e desafios que me permitam evoluir como profissional  
+Software Developer focused on **Back-end, APIs and Artificial Intelligence**.
 
----
-
-## 📚 Sobre mim  
-- Tenho 17 anos e atualmente estou concluindo o curso Técnico em Informática.  
-- Grande interesse em **Segurança da Informação**, redes e desenvolvimento de soluções tecnológicas.  
-- Valorizo **comprometimento, responsabilidade e aprendizado contínuo**.  
-- Inglês em nível intermediário (em curso).  
+Computer Science student passionate about building systems, solving complex problems and exploring new technologies.
 
 ---
 
-## 🛠️ Habilidades  
-- Programação: **Python, C++, C#, PHP, JavaScript, React, HTML, CSS, SQL, MongoDB**  
-- Back-end: **REST API, ASP.NET (cursando .NET 8 / .NET 9)**  
-- Banco de dados: **SQL Server, MySQL, MongoDB**  
-- Redes e manutenção de computadores  
-- Conceitos em **CyberSegurança**
+## About Me
+
+I am currently in the **first semester of Computer Science** and have a technical background in **Information Technology**.
+
+My main interests are:
+
+- Back-end development
+- Artificial Intelligence
+- Software architecture
+- API development
+- Systems engineering
+
+I enjoy **building real projects**, experimenting with new technologies and understanding how systems work internally.
+
+Currently seeking **internship or junior developer opportunities** where I can contribute and continue learning.
 
 ---
 
-## 🤖🧠 TCC 2025 - Análise de Imagens Médicas de Esclerose Múltipla com IA Generativa  
-🔹 Integração com **OpenAI API**  
-🔹 Desenvolvimento de API **REST**, estrutura **MVC**  
-🔹 Fundamentos em **Engenharia de Prompt**  
-🔹 **Análise de dados médicos** e entrega em PDF  
+## Tech Stack
+
+### Languages
+Python  
+PHP  
+JavaScript  
+TypeScript  
+C#  
+C++
+
+### Back-end
+REST APIs  
+Node.js  
+ASP.NET  
+MVC Architecture  
+
+### Front-end
+React  
+HTML  
+CSS  
+
+### Databases
+MySQL  
+SQL Server  
+MongoDB  
+
+### Other Areas
+Artificial Intelligence  
+Computer Networks  
+Distributed Systems  
 
 ---
 
-## 🌎 Contato  
-📧 E-mail: **murilogoncalvesdelima08@gmail.com**  
-📱 Celular: **(12) 99623-7665**  
-🔗 [LinkedIn](  www.linkedin.com/in/murilo-gonçalves-de-lima-dev/)  
+## Featured Projects
+
+### U-Net Multiple Sclerosis Segmentation
+Deep Learning project that trains a **U-Net neural network** to detect and segment **Multiple Sclerosis lesions** in MRI images.
+
+Technologies used:
+- Python
+- PyTorch
+- Deep Learning
+- Medical Image Processing
 
 ---
 
-✨ _“A tecnologia move o mundo, e a segurança garante o futuro.”_  
+### Blockchain System (TypeScript)
+
+Implementation of a **blockchain system** developed for learning purposes, exploring:
+
+- distributed systems
+- cryptography concepts
+- block validation mechanisms
+
+Technologies:
+- TypeScript
+- Node.js
+
+---
+
+### EcoSite – Hackathon Project
+
+Web platform developed during a **school hackathon**.
+
+Users add supermarket products and receive an **environmental impact score** based on consumption.
+
+Features:
+- external API consumption
+- scoring system
+- simple web interface
+
+---
+
+### TCC 2025 – AI Medical Image Analysis
+
+Research project involving:
+
+- analysis of medical images using AI
+- API integration
+- automated report generation
+
+---
+
+### Refactoring of the Front and System – TCC 2025
+
+Refactoring project focused on improving:
+
+- code organization
+- system architecture
+- maintainability
+
+---
+
+## Portfolio
+
+You can see some of my projects and experiments here:
+
+https://portifolio-alpha-orpin.vercel.app/
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact)
+
+---
+
+## Current Focus
+
+Currently improving my skills in:
+
+- Software Engineering
+- Back-end development
+- Artificial Intelligence
+- System architecture
+
+---
+
+## Contact
+
+Email  
+murilogoncalvesdelima08@gmail.com  
+
+LinkedIn  
+www.linkedin.com/in/murilo-gonçalves-de-lima-dev/
+
+Portfolio  
+https://portifolio-alpha-orpin.vercel.app/
+
+---
+
+“Technology is about solving problems — code is just the tool.”
