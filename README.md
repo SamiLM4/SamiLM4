@@ -1,146 +1,79 @@
-# 👋 Murilo Gonçalves de Lima
+# Hi, I'm Murilo Gonçalves de Lima
 
-Desenvolvedor com foco em **Back-end, APIs e Inteligência Artificial**.
+**Back-end & Automation Developer | Python · Node.js · AI Integrations**
 
-Estudante de **Ciência da Computação**, apaixonado por tecnologia, desenvolvimento de sistemas e resolução de problemas complexos através de software.
+I build automations, APIs and AI-powered workflows that cut repetitive work out of business operations. If your team still copies data between spreadsheets, CRMs, emails and internal tools by hand, I can help.
 
----
+📍 Brazil (UTC-3) · Overlap with US East Coast & Europe business hours · Open to remote contract & full-time roles
 
-## 📚 Sobre mim
-
-Atualmente estou cursando **Ciência da Computação** e possuo formação técnica em **Informática**.
-
-Tenho grande interesse em áreas como:
-
-- Desenvolvimento **Back-end**
-- **Inteligência Artificial**
-- **Arquitetura de sistemas**
-- Desenvolvimento de **APIs**
-- Engenharia de Software
-
-Gosto de trabalhar em **projetos reais**, estudar novas tecnologias e entender como os sistemas funcionam internamente.
-
-Atualmente busco **oportunidades de estágio ou desenvolvimento júnior**, onde eu possa aplicar meus conhecimentos e evoluir profissionalmente.
+[Portfolio](https://portifolio-alpha-orpin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/murilo-gonçalves-de-lima-dev/) · [Email](mailto:murilogoncalvesdelima08@gmail.com)
 
 ---
 
-## 🛠️ Tecnologias
+## What I can do for you
 
-### Linguagens
-Python  
-PHP  
-JavaScript  
-TypeScript  
-C#  
-C++
-
-### Back-end
-REST APIs  
-Node.js  
-ASP.NET  
-Arquitetura MVC  
-
-### Front-end
-React  
-HTML  
-CSS  
-
-### Banco de dados
-MySQL  
-SQL Server  
-MongoDB  
-
-### Outros conhecimentos
-Inteligência Artificial  
-Redes de Computadores  
-Sistemas Distribuídos  
+- **Process automation**: replace manual, repetitive tasks with scripts and scheduled jobs (data entry, reports, file handling, notifications)
+- **API integrations**: connect the tools your team already uses (CRMs, spreadsheets, payment platforms, internal systems) through REST APIs and webhooks
+- **AI-powered workflows**: add LLMs and computer vision to real processes, such as document reading, classification, summaries and automatic report generation
+- **Back-end development**: build and maintain the APIs and databases behind those workflows
 
 ---
 
-## 🚀 Projetos em destaque
+## Selected work
 
-### U-Net Multiple Sclerosis Segmentation
-Projeto de **Deep Learning** utilizando a arquitetura **U-Net** para segmentação de lesões de **Esclerose Múltipla** em imagens médicas.
+### 🏫 EDUSEF — Management system with automated operations
+A management system where the routine work runs by itself: time tracking, lateness alerts, invoicing and reports are automated end to end, so staff no longer handle them manually.
+- **Time clock**: digital clock-in/clock-out records stored and processed automatically
+- **Lateness alerts**: automatic messages sent when a late arrival or absence is detected
+- **Automated reports**: attendance and operational reports generated and delivered on a schedule
+- *[Impact: e.g. "saves ~X hours/week of manual work" / "used by X people daily"]*
 
-Tecnologias utilizadas:
-- Python
-- PyTorch
-- Deep Learning
-- Processamento de imagens médicas
+`Back-end` `REST APIs` `n8n` `Databases` `Messaging automation`
 
----
+### 🧾 Automatic invoice issuing (NF-e / NFS-e)
+An integration that issues Brazilian electronic invoices automatically when a sale or service is confirmed: data is pulled from the source system, sent to the invoicing API, and the invoice is stored and emailed to the customer without manual entry.
+`n8n` `API integration` `Webhooks` `Fiscal automation`
 
-### Blockchain System (TypeScript)
+### ⚙️ n8n workflow automations
+Workflows that connect business tools and remove repetitive tasks:
+- Webhooks and REST API integrations between internal systems and third-party platforms
+- Automated notifications through WhatsApp, email or chat apps
+- Scheduled data collection, processing and report delivery
+- AI steps (LLMs) inside workflows for reading, classifying and summarizing data
 
-Implementação de um sistema **Blockchain** desenvolvido para estudo de:
+`n8n` `REST APIs` `Webhooks` `LLMs` `JavaScript`
 
-- sistemas distribuídos
-- conceitos de criptografia
-- validação de blocos
-
-Tecnologias:
-- TypeScript
-- Node.js
-
----
-
-### EcoSite – Hackathon Project
-
-Plataforma web desenvolvida durante um **Hackathon escolar**.
-
-O sistema permite adicionar produtos de supermercado e gera uma **pontuação de impacto ambiental** baseada no consumo.
-
-Funcionalidades:
-- consumo de API externa
-- sistema de pontuação
-- interface web simples
+### 🧠 AI medical image analysis with automated reporting — *Final Thesis, 2025*
+A pipeline that receives medical images through an API, segments Multiple Sclerosis lesions with a U-Net deep learning model and **generates reports automatically**, with no manual step between upload and result.
+`Python` `PyTorch` `Computer Vision` `REST API`
 
 ---
 
-### TCC 2025 – Análise de Imagens Médicas com IA
+## Tech stack
 
-Projeto de pesquisa envolvendo:
-
-- análise de imagens médicas utilizando **Inteligência Artificial**
-- integração com **API**
-- geração automatizada de relatórios
-
----
-
-### Refactoring of the Front and System – TCC 2025
-
-Projeto focado na **refatoração e melhoria da arquitetura do sistema**, aplicando boas práticas de desenvolvimento e organização de código.
+| Area | Tools |
+|---|---|
+| **Languages** | Python, TypeScript, JavaScript, C#, PHP, C++ |
+| **Automation** | n8n, Webhooks, REST API integrations, scheduled jobs, messaging automation |
+| **Back-end** | Node.js, ASP.NET, REST APIs, MVC |
+| **AI / ML** | PyTorch, Deep Learning, Computer Vision, LLM integrations |
+| **Databases** | MySQL, SQL Server, MongoDB |
+| **Front-end** | React, HTML, CSS |
 
 ---
 
-## 🌐 Portfólio
+## Background
 
-Alguns dos meus projetos e experimentos podem ser vistos em:
-
-https://portifolio-alpha-orpin.vercel.app/
-
----
-
-## 📌 Atualmente focado em
-
-- Engenharia de Software
-- Desenvolvimento Back-end
-- Inteligência Artificial aplicada
-- Arquitetura de sistemas
+- B.Sc. in Computer Science (in progress)
+- Technical degree in Information Technology
+- English: *[add your level, e.g. "Professional working proficiency"]*
 
 ---
 
-## 📬 Contato
+## Let's work together
 
-📧 Email  
-murilogoncalvesdelima08@gmail.com  
+I'm open to **remote automation, integration and back-end projects**, as freelance work or a full-time role.
 
-💼 LinkedIn  
-www.linkedin.com/in/murilo-gonçalves-de-lima-dev/
-
-🌐 Portfólio  
-https://portifolio-alpha-orpin.vercel.app/
-
----
-
-✨ *“Tecnologia é sobre resolver problemas — código é apenas a ferramenta.”*
+📧 murilogoncalvesdelima08@gmail.com
+💼 [linkedin.com/in/murilo-gonçalves-de-lima-dev](https://www.linkedin.com/in/murilo-gonçalves-de-lima-dev/)
+🌐 [portifolio-alpha-orpin.vercel.app](https://portifolio-alpha-orpin.vercel.app/)
